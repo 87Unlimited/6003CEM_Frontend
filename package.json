@@ -24,11 +24,11 @@
     "@ant-design/compatible": "^5.1.2",
     "@ant-design/icons": "^5.0.1",
     "@types/node": "^18.15.12",
-    "antd": "^5.17.0",
-    "axios": "^1.6.8",
+    "antd": "^5.3.3",
+    "axios": "^1.3.5",
     "buffer": "^6.0.3",
     "formik": "^2.4.5",
-    "react-router-dom": "^6.23.1",
+    "react-router-dom": "^6.10.0",
     "yup": "^1.4.0"
   }
 }
